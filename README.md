@@ -844,10 +844,17 @@ margin-top: auto;
 ## OUTPUT:
 ![Screenshot 2024-01-01 152842](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/314e3833-f46f-4d2c-ad19-fd21e34b5b97)
 
+![Screenshot 2024-01-01 152910](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/d8daa4a5-6bb2-44aa-8004-18b5a3b5012b)
 
-### Home Page:
+![Screenshot 2024-01-01 152924](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/af3ca60e-57f2-4aa3-87c8-d79c4a80288f)
 
-![output](./images/homepage.jpg)
+![Screenshot 2024-01-01 152944](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/c21641cc-7750-4ddc-9ba9-833a40ae038e)
+
+
+
+
+
+
 
 ## Result:
 
