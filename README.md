@@ -842,6 +842,8 @@ margin-top: auto;
 ``````
 
 ## OUTPUT:
+![Screenshot 2024-01-01 152842](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/314e3833-f46f-4d2c-ad19-fd21e34b5b97)
+
 
 ### Home Page:
 
