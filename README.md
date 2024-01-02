@@ -215,7 +215,7 @@ get a sense for what coding is and how it works! </p>
 </div>
 </div>
 <footer>
-<center> Designed and Developed by thaanesh </center>
+<center> Designed and Developed by Thaanesh </center>
 </footer>
 </body>
 </html>
@@ -434,7 +434,7 @@ Products </a></li>
 </div>
 </div>
 <footer>
-<center> Designed and Developed by Bhuvana</center>
+<center> Designed and Developed by Thaanesh </center>
 </footer>
 </body>
 </html>
@@ -656,13 +656,13 @@ Contact </a></li>
 <div class="box-2">
 <h2> Contact Information </h2>
 <p> <span>Address</span> : 41/14 pudhu palayam st,pillaiyar palayam,kanchipuram</p>
-<p> <span>Email</span> : manogarbhuvana@gmail.com </p>
+<p> <span>Email</span> : vthaanesh@gmail.com </p>
 <p> <span>Phone</span> : 6380003117 </p>
 </div>
 </div>
 </div>
 <footer>
-<center> Designed and Developed by Bhuvana </center>
+<center> Designed and Developed by Thaanesh  </center>
 </footer>
 </body>
 </html>
@@ -815,8 +815,9 @@ margin-top: auto;
 <td> <img src="pa.jpeg"> </td>
 <td> <img src="KL Rahul.jpeg"> </td>
 </tr>
+OUTPUT:
 <tr align="center">
-<th> Bhuvana M</th>
+<th> Thaanesh</th>
 <th> Manogar </th>
 <th> Tamil</th>
 <th> Kumutha </th>
@@ -835,26 +836,20 @@ margin-top: auto;
 </div>
 </div>
 <footer>
-<center> Designed and Developed by Bhuvana </center>
+<center> Designed and Developed by Thaanesh </center>
 </footer>
 </body>
 </html>
 ``````
 
 ## OUTPUT:
-![Screenshot 2024-01-01 152842](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/314e3833-f46f-4d2c-ad19-fd21e34b5b97)
+![WhatsApp Image 2024-01-02 at 18 16 06_ed151289](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/d9c4da1b-3c2a-47d5-8c95-d8eeb5135483)
 
 ![Screenshot 2024-01-01 152910](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/d8daa4a5-6bb2-44aa-8004-18b5a3b5012b)
 
-![Screenshot 2024-01-01 152924](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/af3ca60e-57f2-4aa3-87c8-d79c4a80288f)
+![image](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/a0072225-32c6-4fee-bb4e-df9e114ea5eb)
 
-![Screenshot 2024-01-01 152944](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/c21641cc-7750-4ddc-9ba9-833a40ae038e)
-
-
-
-
-
-
+![image](https://github.com/vthaanesh22/productcompanywebsite/assets/139373686/48fd693d-e357-435b-9efe-fe75e8c3f5ad)
 
 ## Result:
 
